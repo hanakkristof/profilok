@@ -20,13 +20,14 @@ flex: 1 1 200px;
 max-width: 200px;
 padding: 1rem;
 text-align: center;
+
 }
 
 img{
 width: 100px;
 height: 100px;
-width: 100%;
-border-radius: 50%;
+
+border-radius: 40%;
 }
 
 .hatter{
@@ -35,4 +36,6 @@ border-radius: 50%;
 }
 .popover_container{
   width: 200px;
+  height: 300px;
+  
 }
